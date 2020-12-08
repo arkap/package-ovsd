@@ -8,7 +8,7 @@ Ovsd is an external device handler for Open vSwitch to be used with the external
 
 Install this as a feed by adding the following line to `feeds.conf` in your OpenWRT source tree:
 ```
-src-git ovsd https://gitlab.hhi.fraunhofer.de/wn-ina/ovsd.git
+src-git ovsd https://github.com/arkap/package-ovsd.git
 ```
 Next, run
 ```bash
