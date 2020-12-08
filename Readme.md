@@ -1,6 +1,6 @@
 # ovsd package for OpenWRT
 
-This is an OpenWrt feed repository for [ovsd](https://gitlab.inet.tu-berlin.de/SDWN/ovsd).
+This is an OpenWrt feed repository for [ovsd](https://github.com/arkap/ovsd.git).
 Ovsd is an external device handler for Open vSwitch to be used with the external device handler extension for netifd.
 
 
